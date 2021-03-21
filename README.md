@@ -4,3 +4,5 @@ The goal of the project was to gain insight into development environments with m
 ```cmd
 mpirun –hostfile ./Hostfile ./non_Block.exe 512 64 500
 ```
+
+**Further information can be found in the uploaded paper "MPI_Implementation_of_the_two_dimensional_heat_equation.pdf" within the "Paper" folder.**
